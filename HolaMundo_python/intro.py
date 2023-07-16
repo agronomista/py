@@ -1,2 +1,2 @@
 #Función/intrucción de impresión
-print()
+print("Hola")
